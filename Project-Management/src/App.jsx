@@ -42,7 +42,7 @@ function App() {
 
 
   return (
-    <Router basename="/ProjectMangement/">
+    <Router basename="/oddsemproject/">
       <div className="app">
         <Routes>
           <Route 

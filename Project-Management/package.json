@@ -3,7 +3,7 @@
   "private": true,
   "version": "0.0.0",
   "type": "module",
-  "homepage": "https://lohithamanda3-beep.github.io/ProjectMangement",
+  "homepage": "https://satish30082.github.io/oddsemproject",
   "scripts": {
     "dev": "vite",
     "build": "vite build",
